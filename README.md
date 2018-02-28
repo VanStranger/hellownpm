@@ -1,5 +1,5 @@
 # hellownpm
-just say hello to world and npm;
+say a word writed "hello world"  to npm . 
 thanks to https://github.com/geneking/npm-develop.
 ## 一、注册npm账号
 * 怎么将代码提到github，大家都知道需要一个github账号
@@ -78,3 +78,4 @@ npm login
 ```bash
 npm publish
 ```
+
